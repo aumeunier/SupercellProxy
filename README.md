@@ -4,6 +4,7 @@ A proxy en/decrypting..
 * ..Clash of Clans
 * ..Clash Royale
 * ..Boom Beach
+* ..Hayday
 
 traffic. Useful for private server, bot or API devs.
 The proxy has its own Libsodium/NaCl port and manages to work without heavy external libs.

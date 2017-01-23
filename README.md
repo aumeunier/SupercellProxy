@@ -35,10 +35,12 @@ exit
 * Memu users:
 Leftclick the +apk button on the right side bar and travel to the location of your apk. Download hosteditor from the Playstore and point the host of the game you have to your local IP or use the steps above for bluestacks.
 
+```
 Clash of Clans: gamea.clashofclans.com
 Clash Royale: game.clashroyaleapp.com
 Boom Beach: game.boombeachgame.com
 Hayday: game.haydaygame.com
+```
 
 Open the modded game once you modded /etc/hosts and take a look at the proxy window.
 You'll find the decrypted traffic at /SupercellProxy/bin/Debug/Packets.
